@@ -1,0 +1,3 @@
+Grouped customers into meaningful clusters
+Identified purchasing behavior patterns
+Enables business to target the right customer segments
